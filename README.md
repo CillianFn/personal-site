@@ -3,5 +3,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Personal Website
 
 This website was created using React and MDBootstrap. Hosted using Netlify. 
-
-Can be found at https://www.cillianfn.com/
